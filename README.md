@@ -1,4 +1,3 @@
-# Hospital-Analytics-Dashboard
 # **Healthcare Analysis Dashboard – Power BI Project**
 
 ## **About the Project**
