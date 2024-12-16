@@ -1,4 +1,4 @@
-# **Healthcare Analysis Dashboard – Power BI Project**
+# **Hospital Analysis Dashboard – Power BI Project**
 
 ## **About the Project**
 Hi there! This project was an exciting deep dive into healthcare efficiency, built for a fictional consulting company, *HealthStat*. Using a real-world dataset, I explored the key factors driving **Length of Stay (LOS)** and healthcare costs. My goal was to uncover actionable insights through data analysis and visualization while building a dynamic, easy-to-navigate Power BI dashboard that helps benchmark hospital performance.  
